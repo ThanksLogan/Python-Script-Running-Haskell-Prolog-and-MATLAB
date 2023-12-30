@@ -1,5 +1,7 @@
 # About
 
+See "Python Scripting Program Running Haskell, Prolog, and MATLAB.pdf"
+
 Script controlling 3 different operations on an image using 3 different programming languages, all drive by python script to run the 3 separate operations on the image.
 
 
